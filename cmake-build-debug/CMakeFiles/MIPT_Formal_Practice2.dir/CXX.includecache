@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
+vector
+-
+string
+-
+cctype
+-
+stdexcept
+-
+
+/Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp
+Situation.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Situation.h
+tuple
+-
+
+/Users/evgenabramov/MIPT-Formal-Practice2/Situation.h
+GrammarRule.h
+/Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
+
