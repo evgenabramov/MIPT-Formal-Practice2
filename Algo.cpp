@@ -46,7 +46,7 @@ void Algo::Predict(size_t position) {
     if (!situation.CheckRuleCompleted() && !situation.CheckNextSymbolIsTerminal()) {
       for (const GrammarRule& rule : grammar_.rules_) {
         if (situation.GetNextSymbol() == rule.left_part_.symbol_) {
-          situation_lists_[position].insert(Situation(rule, position, 0));
+          situation_lists_[position].emplace(rule, position, 0);
         }
       }
     }
@@ -58,7 +58,7 @@ void Algo::Complete(size_t position) {
     if (situation.CheckRuleCompleted()) {
       for (const Situation& upper_situation : situation_lists_[situation.previous_level_position_]) {
         if (!upper_situation.CheckRuleCompleted() && upper_situation.GetNextSymbol() == situation.rule_.left_part_.symbol_) {
-          situation_lists_[position].emplace(upper_situation.MovePointRight());
+          situation_lists_[position].insert(upper_situation.MovePointRight());
         }
       }
     }
