@@ -60,15 +60,15 @@ include googletest-master/googlemock/CMakeFiles/gmock.dir/flags.make
 googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: googletest-master/googlemock/CMakeFiles/gmock.dir/flags.make
 googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: ../googletest-master/googlemock/src/gmock-all.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc
 
 googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gmock.dir/src/gmock-all.cc.i"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc > CMakeFiles/gmock.dir/src/gmock-all.cc.i
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc > CMakeFiles/gmock.dir/src/gmock-all.cc.i
 
 googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gmock.dir/src/gmock-all.cc.s"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc -o CMakeFiles/gmock.dir/src/gmock-all.cc.s
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googlemock && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googlemock/src/gmock-all.cc -o CMakeFiles/gmock.dir/src/gmock-all.cc.s
 
 # Object files for target gmock
 gmock_OBJECTS = \

@@ -60,15 +60,15 @@ include googletest-master/googletest/CMakeFiles/gtest.dir/flags.make
 googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: googletest-master/googletest/CMakeFiles/gtest.dir/flags.make
 googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: ../googletest-master/googletest/src/gtest-all.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc
 
 googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gtest.dir/src/gtest-all.cc.i"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc > CMakeFiles/gtest.dir/src/gtest-all.cc.i
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc > CMakeFiles/gtest.dir/src/gtest-all.cc.i
 
 googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gtest.dir/src/gtest-all.cc.s"
-	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
+	cd /Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/googletest-master/googletest && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/googletest-master/googletest/src/gtest-all.cc -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
 
 # Object files for target gtest
 gtest_OBJECTS = \

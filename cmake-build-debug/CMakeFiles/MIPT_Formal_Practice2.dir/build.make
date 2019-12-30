@@ -60,67 +60,67 @@ include CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.o: CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp
 
 CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.i
 
 CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/main.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/main.cpp.s
 
 CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.o: CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.o: ../GrammarRule.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp
 
 CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.i
 
 CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/GrammarRule.cpp.s
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.o: CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.o: ../Grammar.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.i
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Grammar.cpp.s
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.o: CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.o: ../Algo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.i
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Algo.cpp.s
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.o: CMakeFiles/MIPT_Formal_Practice2.dir/flags.make
 CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.o: ../Situation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp > CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.i
 
 CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp -o CMakeFiles/MIPT_Formal_Practice2.dir/Situation.cpp.s
 
 # Object files for target MIPT_Formal_Practice2
 MIPT_Formal_Practice2_OBJECTS = \

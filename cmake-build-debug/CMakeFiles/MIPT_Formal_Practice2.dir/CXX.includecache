@@ -6,6 +6,30 @@
 
 #IncludeRegexTransform: 
 
+/Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp
+Algo.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Algo.h
+
+/Users/evgenabramov/MIPT-Formal-Practice2/Algo.h
+Grammar.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Grammar.h
+Situation.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Situation.h
+set
+/Users/evgenabramov/MIPT-Formal-Practice2/set
+
+/Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp
+Grammar.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Grammar.h
+
+/Users/evgenabramov/MIPT-Formal-Practice2/Grammar.h
+GrammarRule.h
+/Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
+
+/Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp
+GrammarRule.h
+/Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
+
 /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
 vector
 -
@@ -25,4 +49,10 @@ tuple
 /Users/evgenabramov/MIPT-Formal-Practice2/Situation.h
 GrammarRule.h
 /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.h
+
+/Users/evgenabramov/MIPT-Formal-Practice2/main.cpp
+iostream
+-
+Algo.h
+/Users/evgenabramov/MIPT-Formal-Practice2/Algo.h
 

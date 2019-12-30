@@ -60,80 +60,80 @@ include CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/test.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/test.cpp.o: ../test.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unit_tests.dir/test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/test.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/test.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp
 
 CMakeFiles/unit_tests.dir/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp > CMakeFiles/unit_tests.dir/test.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp > CMakeFiles/unit_tests.dir/test.cpp.i
 
 CMakeFiles/unit_tests.dir/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp -o CMakeFiles/unit_tests.dir/test.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/test.cpp -o CMakeFiles/unit_tests.dir/test.cpp.s
 
 CMakeFiles/unit_tests.dir/tests.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/tests.cpp.o: ../tests.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/unit_tests.dir/tests.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/tests.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/tests.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp
 
 CMakeFiles/unit_tests.dir/tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/tests.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp > CMakeFiles/unit_tests.dir/tests.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp > CMakeFiles/unit_tests.dir/tests.cpp.i
 
 CMakeFiles/unit_tests.dir/tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/tests.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp -o CMakeFiles/unit_tests.dir/tests.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/tests.cpp -o CMakeFiles/unit_tests.dir/tests.cpp.s
 
 CMakeFiles/unit_tests.dir/GrammarRule.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/GrammarRule.cpp.o: ../GrammarRule.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/unit_tests.dir/GrammarRule.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/GrammarRule.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/GrammarRule.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp
 
 CMakeFiles/unit_tests.dir/GrammarRule.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/GrammarRule.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp > CMakeFiles/unit_tests.dir/GrammarRule.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp > CMakeFiles/unit_tests.dir/GrammarRule.cpp.i
 
 CMakeFiles/unit_tests.dir/GrammarRule.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/GrammarRule.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp -o CMakeFiles/unit_tests.dir/GrammarRule.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/GrammarRule.cpp -o CMakeFiles/unit_tests.dir/GrammarRule.cpp.s
 
 CMakeFiles/unit_tests.dir/Grammar.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/Grammar.cpp.o: ../Grammar.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/unit_tests.dir/Grammar.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Grammar.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Grammar.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp
 
 CMakeFiles/unit_tests.dir/Grammar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/Grammar.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp > CMakeFiles/unit_tests.dir/Grammar.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp > CMakeFiles/unit_tests.dir/Grammar.cpp.i
 
 CMakeFiles/unit_tests.dir/Grammar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/Grammar.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp -o CMakeFiles/unit_tests.dir/Grammar.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Grammar.cpp -o CMakeFiles/unit_tests.dir/Grammar.cpp.s
 
 CMakeFiles/unit_tests.dir/Algo.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/Algo.cpp.o: ../Algo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/unit_tests.dir/Algo.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Algo.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Algo.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp
 
 CMakeFiles/unit_tests.dir/Algo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/Algo.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp > CMakeFiles/unit_tests.dir/Algo.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp > CMakeFiles/unit_tests.dir/Algo.cpp.i
 
 CMakeFiles/unit_tests.dir/Algo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/Algo.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp -o CMakeFiles/unit_tests.dir/Algo.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Algo.cpp -o CMakeFiles/unit_tests.dir/Algo.cpp.s
 
 CMakeFiles/unit_tests.dir/Situation.cpp.o: CMakeFiles/unit_tests.dir/flags.make
 CMakeFiles/unit_tests.dir/Situation.cpp.o: ../Situation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/evgenabramov/MIPT-Formal-Practice2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/unit_tests.dir/Situation.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Situation.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_tests.dir/Situation.cpp.o -c /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp
 
 CMakeFiles/unit_tests.dir/Situation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_tests.dir/Situation.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp > CMakeFiles/unit_tests.dir/Situation.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp > CMakeFiles/unit_tests.dir/Situation.cpp.i
 
 CMakeFiles/unit_tests.dir/Situation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_tests.dir/Situation.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp -o CMakeFiles/unit_tests.dir/Situation.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/evgenabramov/MIPT-Formal-Practice2/Situation.cpp -o CMakeFiles/unit_tests.dir/Situation.cpp.s
 
 # Object files for target unit_tests
 unit_tests_OBJECTS = \
